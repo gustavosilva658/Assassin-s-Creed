@@ -1,0 +1,64 @@
+.header-site {
+    background-image: url(./imagens/assassins-creed-mirage58.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 400px;
+    padding-bottom: 400px;
+}
+
+.content-site {
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+}
+
+.img-site {
+        background-image: url(imagens/assassins_creed_mirage54.webp);
+        background-position: center top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        padding-top: 300px;
+        padding-bottom: 300px;
+        color: #ffffff;
+}
+
+.footer-site {
+        background-color: #333333;
+        color: #ffffff;
+        padding-top: 50px;
+        padding-bottom: 50px;
+}
+
+.img1 {
+    margin-left: 77px;
+}
+
+.img2 {
+    margin-left: 77px;
+}
+
+
+.l1{
+     color:goldenrod;
+}
+
+.l2 {
+     color: turquoise;
+}
+
+.l3 {
+  color:sandybrown;
+}
+
+.l4 {
+    margin-left: 50px;
+    color: khaki;
+}
+
+.l5 {
+    color: aliceblue;
+}
